@@ -70,7 +70,7 @@ Non-functional Requirements
         Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
 
 # Use Case Diagrams.
-
+![Alt text](alx-booking-uc.png)
 # Acceptance Criteria
 
 

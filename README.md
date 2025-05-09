@@ -44,7 +44,6 @@ an explanation of the requirement analysis process as part of the software devel
     - Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing
 
 # Types of Requirements.
-Types of Requirements
 ## Functional Requirements
 
   Definition: Describe what the system should do.

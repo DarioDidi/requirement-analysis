@@ -47,53 +47,53 @@ an explanation of the requirement analysis process as part of the software devel
 Types of Requirements
 ## Functional Requirements
 
-    Definition: Describe what the system should do.
+  Definition: Describe what the system should do.
 
-    Examples: User authentication, property search, booking system, user registration.
+  Examples: User authentication, property search, booking system, user registration.
 
-    Key Functional Requirements:
-        - Search Properties: Users should be able to search for properties based on various criteria such as location, price, and availability.
-        - User Registration: New users should be able to create an account with personal details and login credentials.
-        - Property Listings: Display properties with essential details and images.
-        - Booking System: Users should be able to book properties, view booking details, and manage their bookings.
-        - User Authentication: Secure login and registration process for users.
+  Key Functional Requirements:
+      - Search Properties: Users should be able to search for properties based on various criteria such as location, price, and availability.
+      - User Registration: New users should be able to create an account with personal details and login credentials.
+      - Property Listings: Display properties with essential details and images.
+      - Booking System: Users should be able to book properties, view booking details, and manage their bookings.
+      - User Authentication: Secure login and registration process for users.
 
 Non-functional Requirements
 
-    Definition: Describe how the system should perform.
+  Definition: Describe how the system should perform.
 
-    Examples: Performance, security, scalability, usability, reliability.
+  Examples: Performance, security, scalability, usability, reliability.
 
-    Key Non-functional Requirements:
-        - Performance: The system should load pages within 2 seconds and handle up to 1000 concurrent users.
-        - Security: Ensure data encryption, secure login, and protect against common vulnerabilities.
-        - Scalability: The system should be able to scale horizontally to handle increased traffic.
-        - Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
-        - Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
+  Key Non-functional Requirements:
+      - Performance: The system should load pages within 2 seconds and handle up to 1000 concurrent users.
+      - Security: Ensure data encryption, secure login, and protect against common vulnerabilities.
+      - Scalability: The system should be able to scale horizontally to handle increased traffic.
+      - Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
+      - Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
 
 # Use Case Diagrams.
 What are Use Case Diagrams?
 
-    Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+  Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
 Benefits of Use Case Diagrams:
 
-    - Provide a clear visual representation of system functionalities.
-    - Help in identifying and organizing system requirements.
-    - Facilitate communication among stakeholders and development team.
+  - Provide a clear visual representation of system functionalities.
+  - Help in identifying and organizing system requirements.
+  - Facilitate communication among stakeholders and development team.
 
 ![Alt text](alx-booking-uc.png)
 # Acceptance Criteria
 
 
-    What is Acceptance Criteria?
-        Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+  What is Acceptance Criteria?
+      Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
 
-    How to Define Acceptance Criteria:
-        - Be specific and measurable.
-        - Include functional and non-functional aspects.
-        - Example for Booking System: “Users should be able to checkout and receive a confirmation email within 2 minutes.”
+  How to Define Acceptance Criteria:
+      - Be specific and measurable.
+      - Include functional and non-functional aspects.
+      - Example for Booking System: “Users should be able to checkout and receive a confirmation email within 2 minutes.”
 
-    Benefits of Acceptance Criteria:
-        - Ensure all parties have a clear understanding of feature requirements.
-        - Provide a basis for testing and validation.
-        - Help in maintaining quality and meeting user expectations.
+  Benefits of Acceptance Criteria:
+      - Ensure all parties have a clear understanding of feature requirements.
+      - Provide a basis for testing and validation.
+      - Help in maintaining quality and meeting user expectations.

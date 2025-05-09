@@ -51,12 +51,12 @@ Types of Requirements
 
   Examples: User authentication, property search, booking system, user registration.
 
-  Key Functional Requirements:
-    - Search Properties: Users should be able to search for properties based on various criteria such as location, price, and availability.
-    - User Registration: New users should be able to create an account with personal details and login credentials.
-    - Property Listings: Display properties with essential details and images.
-    - Booking System: Users should be able to book properties, view booking details, and manage their bookings.
-    - User Authentication: Secure login and registration process for users.
+  ### Key Functional Requirements:
+  - Search Properties: Users should be able to search for properties based on various criteria such as location, price, and availability.
+  - User Registration: New users should be able to create an account with personal details and login credentials.
+  - Property Listings: Display properties with essential details and images.
+  - Booking System: Users should be able to book properties, view booking details, and manage their bookings.
+  - User Authentication: Secure login and registration process for users.
 
 Non-functional Requirements
 

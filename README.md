@@ -89,7 +89,8 @@ What are Use Case Diagrams?
   How to Define Acceptance Criteria:
   - Be specific and measurable.
   - Include functional and non-functional aspects.
-  - Example for Booking System: “Users should be able to checkout and receive a confirmation email within 2 minutes.”
+    
+ **Example for Booking System:** “Users should be able to checkout and receive a confirmation email within 2 minutes.”
 
   Benefits of Acceptance Criteria:
   - Ensure all parties have a clear understanding of feature requirements.
